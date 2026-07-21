@@ -12,7 +12,7 @@ Turn diagrams, maps, anatomy images, and other labeled pictures into recall card
 
 ## Install
 
-Download the `.neoanki-extension` file from the latest release, then open **Settings → Extensions → Install from file** in Neo Anki. Choose **Image Occlusion** when creating a note.
+Download the `.neoanki-extension` file from the latest release, then open **Extensions → Browse → Install from file** in Neo Anki. Choose **Image Occlusion** when creating a knowledge item.
 
 ## Privacy and permissions
 
