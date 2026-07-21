@@ -1,0 +1,1 @@
+import{describe,expect,it}from'vitest';import{normalize}from'./geometry.js';describe('geometry',()=>it('bounds masks',()=>expect(normalize({id:'x',x:95,y:95,width:20,height:20})).toMatchObject({width:5,height:5})))
